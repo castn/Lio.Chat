@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "518632321003",
+    "project_id": "liochat-d3fc0",
+    "storage_bucket": "liochat-d3fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518632321003:android:624cb997b61a97d405b3ae",
+        "android_client_info": {
+          "package_name": "de.liodarmstadt.LIOChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518632321003-sfktnu13h2ohpmtof7a73874eeokdvqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW1M68EPk5SlTdQTjD9oQJ18flWxVbkJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518632321003-sfktnu13h2ohpmtof7a73874eeokdvqo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518632321003-9pt3ffj8eso6he7o3sv4jk9e0fchec8j.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "de.liodarmstadt.LIOChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
